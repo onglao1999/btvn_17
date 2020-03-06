@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9C34F0B32411F8B9002361B0 /* Code_Layout_two_ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C34F0B22411F8B9002361B0 /* Code_Layout_two_ViewController.swift */; };
+		9C34F0B52411FDD4002361B0 /* Code_Layout_threeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C34F0B42411FDD4002361B0 /* Code_Layout_threeViewController.swift */; };
 		9C7E6182241139E300DA69B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C7E6181241139E300DA69B4 /* AppDelegate.swift */; };
 		9C7E6184241139E300DA69B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C7E6183241139E300DA69B4 /* SceneDelegate.swift */; };
 		9C7E6186241139E300DA69B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C7E6185241139E300DA69B4 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		9C34F0B22411F8B9002361B0 /* Code_Layout_two_ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Code_Layout_two_ViewController.swift; sourceTree = "<group>"; };
+		9C34F0B42411FDD4002361B0 /* Code_Layout_threeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Code_Layout_threeViewController.swift; sourceTree = "<group>"; };
 		9C7E617E241139E300DA69B4 /* Code_Layout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Code_Layout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C7E6181241139E300DA69B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9C7E6183241139E300DA69B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				9C7E618C241139E600DA69B4 /* LaunchScreen.storyboard */,
 				9C7E618F241139E600DA69B4 /* Info.plist */,
 				9C34F0B22411F8B9002361B0 /* Code_Layout_two_ViewController.swift */,
+				9C34F0B42411FDD4002361B0 /* Code_Layout_threeViewController.swift */,
 			);
 			path = Code_Layout;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				9C7E6182241139E300DA69B4 /* AppDelegate.swift in Sources */,
 				9C34F0B32411F8B9002361B0 /* Code_Layout_two_ViewController.swift in Sources */,
 				9C7E6184241139E300DA69B4 /* SceneDelegate.swift in Sources */,
+				9C34F0B52411FDD4002361B0 /* Code_Layout_threeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
